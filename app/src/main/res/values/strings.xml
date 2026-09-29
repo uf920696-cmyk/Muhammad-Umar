@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS Smart Assistant screen access to click buttons, select YouTube videos, and execute commands hands-free.</string>
+</resources>

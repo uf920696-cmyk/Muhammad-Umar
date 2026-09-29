@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Native Assistant",
+  "description": "Native Android personal voice-first assistant with real device actions, wake word detection, and Gemini Live integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
